@@ -1,9 +1,9 @@
-# The Best Motherfucking Website
-Source of [The Best Motherfucking Website](https://thebestmotherfucking.website)  
-Based on [motherfuckingwebsite](http://motherfuckingwebsite.com/) and [bettermotherfuckingwebsite](http://bettermotherfuckingwebsite.com/)
+# The Best Website
+Source of [The Best Website](https://thebestmotherfucking.website)  
+Based on [website](http://motherfuckingwebsite.com/) and [betterwebsite](http://bettermotherfuckingwebsite.com/)
 
 ## Clone the repo
-`git clone https://github.com/denysvitali/thebestmotherfuckingwebsite`
+`git clone https://github.com/mariot/thebestwebsite`
 
 ## Deployment instructions
 See `partial-nginx.conf` for the configuration file  
@@ -23,4 +23,4 @@ To deploy it, use `yarn run build` and deploy the contents of the `dist/` direct
 [Open an issue](https://github.com/denysvitali/thebestmotherfuckingwebsite/issues) and let's discuss it. If you want to implement it yourself do it freely and make a PR.
 
 ## Want to create a blog with a similar theme?
-Check out [The Best Motherfucking Blog Theme](https://github.com/denysvitali/hugo-thebestmotherfuckingblog) or try [HugoModo Best Motherfucking Website](https://github.com/hugomodo/hugomodo-best-motherfucking-website) by [thombruce](https://github.com/thombruce).
+Check out [The Best Blog Theme](https://github.com/denysvitali/hugo-thebestmotherfuckingblog) or try [HugoModo Best Website](https://github.com/hugomodo/hugomodo-best-motherfucking-website) by [thombruce](https://github.com/thombruce).
